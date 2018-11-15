@@ -8,6 +8,7 @@ grammar_cjkRuby: true
 ---
 
 [toc!]
+![](https://www.github.com/sharmer156/xiaoshujiangimg/raw/master/小书匠/1542251673943.png)
 # 第一章 - 算法基础 
 ## 1.1 算法复杂度计算
 ## 1.2 神奇的兔子数列
